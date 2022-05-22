@@ -1,2 +1,2 @@
-# JavaScript
-Little bit of learning on the go 
+# tic-tac-toe
+Tic Tac Toe game for The Odin Project
